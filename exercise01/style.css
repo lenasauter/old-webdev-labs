@@ -20,6 +20,11 @@ h2, p, button {
     margin: 15px;
 }
 
+div {
+    display: flex;
+    justify-content: center;
+}
+
 /*
 Add some style blocks below this line to style the card.
 */
